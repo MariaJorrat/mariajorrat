@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
 
-- 👨‍💻 All of my projects are available at [Projects](https://sites.google.com/view/jorratmf/projects?authuser=0)
+- 👨‍💻 All of my projects are available at [projects](https://sites.google.com/view/jorratmf/projects?authuser=0)
 
-- 📄 Know about my experiences [Experience](https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0)
+- 📄 Know about my experiences [experience](https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
