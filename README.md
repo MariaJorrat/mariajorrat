@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
 
-- 👨‍💻 All of my projects are available at [projects](https://sites.google.com/view/jorratmf/projects?authuser=0)
+- 👨‍💻 Look my UX and Frontend projects [here](https://sites.google.com/view/jorratmf/projects?authuser=0)
 
 - 📄 Know about my [experiences](https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0)
 
