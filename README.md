@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **fullstack development**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/jorratmf/](https://sites.google.com/view/jorratmf/)
-
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/jorratmf/projects?authuser=0](https://sites.google.com/view/jorratmf/projects?authuser=0)
 
 - 📄 Know about my experiences [https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0](https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0)
 
