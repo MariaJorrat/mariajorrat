@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
 
-- 📄 Know about my experiences [https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0](x)
+- 📄 Know about my experiences [https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0](https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
