@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Flor</h1>
 <h3 align="center">UX designer & Frontend developer</h3>
-<h3 align="center">https://jorratmariaflorencia.netlify.app/</h3>
+<h3 align="center">https://jorratmaria.pages.dev/</h3>
 
 ---
 - 🌱 I’m currently learning **fullstack development**
