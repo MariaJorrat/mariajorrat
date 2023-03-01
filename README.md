@@ -3,7 +3,7 @@
 <h3 align="center">https://jorratmaria.pages.dev/</h3>
 
 ---
-- 🌱 I’m currently learning **fullstack development**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
 
