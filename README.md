@@ -9,8 +9,6 @@
 
 - 👨‍💻 Look my UX and Frontend projects [here](https://sites.google.com/view/jorratmf/projects?authuser=0)
 
-- 📄 Know about my [experiences](https://sites.google.com/view/jorratmf/about-me/curriculum?authuser=0)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jorratmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorratmf" height="30" width="40" /></a>
