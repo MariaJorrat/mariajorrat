@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋 I'm Flor</h1>
 <h3 align="center">UX/UI Designer and Developer</h3>
-<h3 align="center">https://jorratmf.pages.dev/</h3>
+<h3 align="center">https://jorratmf.pages.dev/ (underconstruction)</h3>
 
 ---
-- 👨‍💻 Look my [portfolio](https://jorratmf.pages.dev/) (underconstruction).
-
 - Hello! I'm Flor, a computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
 
 - Throughout my career, I have acquired strong skills in software, hardware, and network maintenance, as well as programming and software architecture. However, my true passion lies in responsive web design
