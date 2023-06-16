@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋 I'm Flor</h1>
-Computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
+<h1 align="center">Welcome! I'm Flor</h1>
 <h3 align="center">UX/UI Designer and Developer</h3>
 <h3 align="center">https://jorratmf.pages.dev/ (underconstruction)</h3>
 
 ---
-- Hello! I'm Flor,
+- I am a computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
 
 - Throughout my career, I have acquired strong skills in software, hardware, and network maintenance, as well as programming and software architecture. However, my true passion lies in responsive web design
 and development with a mobile-first approach.
