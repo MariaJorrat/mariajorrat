@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Flor</h1>
-<h3 align="center">UX Designer & Frontend Developer</h3>
+<h3 align="center">UX/UI Designer & Developer</h3>
 <h3 align="center">https://jorratmaria.pages.dev/</h3>
 
 ---
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
 
-- 👨‍💻 Look my UX and Frontend projects [here](https://sites.google.com/view/jorratmf/projects?authuser=0)
+- 👨‍💻 Look my [portfolio](jorratmf.pages.dev), is underconstruction.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
