@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋 I'm Flor</h1>
 <h3 align="center">UX/UI Designer and Developer</h3>
-<h3 align="center">https://jorratmaria.pages.dev/</h3>
+<h3 align="center">https://jorratmf.pages.dev/</h3>
 
 ---
-- 🌱 I’m currently learning **Fullstack Development**
-
-- 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
-
 - 👨‍💻 Look my [portfolio](https://jorratmf.pages.dev/), is underconstruction.
+
+- Hello! I'm Flor, a computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
+
+- Throughout my career, I have acquired strong skills in software, hardware, and network maintenance, as well as programming and software architecture. However, my true passion lies in responsive web design
+and development with a mobile-first approach.
+
+- I am constantly staying up to date with the latest trends and technologies in the web design and development field, always seeking opportunities to learn and enhance my skills. My goal is to create unique and engaging web experiences that bring value to users.
+
+- Furthermore, I am open to considering relocation to seize new professional opportunities and challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
