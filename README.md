@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maria.jorrat@alu.frt.alu.edu.ar**
 
-- 👨‍💻 Look my [portfolio](jorratmf.pages.dev), is underconstruction.
+- 👨‍💻 Look my [portfolio](www.jorratmf.pages.dev), is underconstruction.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
