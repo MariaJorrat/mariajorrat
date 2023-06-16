@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! I'm Flor</h1>
 <h3 align="center">UX/UI Designer and Developer</h3>
-<h3 align="center">https://jorratmf.pages.dev/ (underconstruction)</h3>
+<h3 align="center">https://jorratmf.pages.dev/ (under construction)</h3>
 
 ---
 - I am a computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
