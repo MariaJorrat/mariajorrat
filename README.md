@@ -3,7 +3,7 @@
 <h3 align="center">https://jorratmf.pages.dev/</h3>
 
 ---
-- 👨‍💻 Look my [portfolio](https://jorratmf.pages.dev/), is underconstruction.
+- 👨‍💻 Look my [portfolio](https://jorratmf.pages.dev/) (underconstruction).
 
 - Hello! I'm Flor, a computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
 
