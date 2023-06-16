@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Flor</h1>
-<h3 align="center">UX/UI Designer & Developer</h3>
+<h3 align="center">UX/UI designer & developer</h3>
 <h3 align="center">https://jorratmaria.pages.dev/</h3>
 
 ---
