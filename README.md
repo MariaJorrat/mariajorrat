@@ -1,16 +1,13 @@
 <h1 align="center">Welcome! I'm Flor</h1>
-<h3 align="center">UX/UI Designer and Developer</h3>
-<h3 align="center">https://jorratmf.pages.dev/ (under construction)</h3>
+<h3 align="center">Web Developer</h3>
+<h3 align="center">https://mypagemfj.netlify.app/</h3>
 
 ---
-- I am a computer technician and systems engineering student with nearly ten years of experience in the technology industry. I'm currently focused on web design and development.
-
-- Throughout my career, I have acquired strong skills in software, hardware, and network maintenance, as well as programming and software architecture. However, my true passion lies in responsive web design
-and development with a mobile-first approach.
-
-- I am constantly staying up to date with the latest trends and technologies in the web design and development field, always seeking opportunities to learn and enhance my skills. My goal is to create unique and engaging web experiences that bring value to users.
-
-- Furthermore, I am open to considering relocation to seize new professional opportunities and challenges.
+- Passionate about technology and art.
+- I'm currently pursuing a degree in software development.
+- I work as a freelancer in SM design and web development.
+- I also work pro bono for the NGO Students For Liberty.
+- My hobbies are singing and photography.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
