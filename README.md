@@ -5,9 +5,9 @@
 ---
 - Passionate about technology and art.
 - I'm currently pursuing a degree in software development.
-- I´m a web developer (freelancer).
+- I´m a fullstack developer (freelancer).
 - I also work Ad honorem for the NGO Students For Liberty.
-- My hobbies are singing and photography.
+- My hobbies are singing, playing video games and photography.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
