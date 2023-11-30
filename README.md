@@ -5,8 +5,8 @@
 ---
 - Passionate about technology and art.
 - I'm currently pursuing a degree in software development.
-- I work as a freelancer in SM design and web development.
-- I also work pro bono for the NGO Students For Liberty.
+- I´m a web developer (freelancer).
+- I also work Ad honorem for the NGO Students For Liberty.
 - My hobbies are singing and photography.
 
 <h3 align="left">Connect with me:</h3>
