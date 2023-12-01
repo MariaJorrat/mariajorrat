@@ -11,9 +11,9 @@
 - My hobbies are singing, playing video games and photography.
 
 ---
-
-- <h4 align="left">English: C1</h4>
-- <h4 align="left">Spanish: native</h4>
+<h3 align="left">Languages</h3>
+- English C1
+- Spanish native
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="left">Tools and Languages</h3>
+<h3 align="left">Stack</h3>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
