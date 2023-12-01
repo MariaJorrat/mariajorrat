@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages</h3>
 
-- English C1
+- English B2 to C1
 - Spanish native
 
 ---
