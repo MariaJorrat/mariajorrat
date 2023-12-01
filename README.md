@@ -29,5 +29,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<h4 align="left">English: C1</h3>
-<h4 align="left">Spanish: native</h3>
+<div> <h3 align="left">English: C1</h3>
+<img src="https://cdn.icon-icons.com/icons2/230/PNG/256/EnglishLanguage_Flag1_26107.png" width="40" height="40"/>
+</div>
+
+<div> <h3 align="left">Spanish: native</h3>
