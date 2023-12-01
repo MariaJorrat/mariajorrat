@@ -13,6 +13,7 @@
 ---
 
 <h3 align="left">Languages</h3>
+
 - English C1
 - Spanish native
 
