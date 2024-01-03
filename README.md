@@ -8,7 +8,7 @@
 - I'm currently pursuing a degree in software development.
 - I´m a fullstack developer (freelancer).
 - I also work Ad honorem for the NGO Students For Liberty.
-- My hobbies are singing, playing video games and photography.
+- My hobbies are singing, chess and photography.
 
 ---
 
