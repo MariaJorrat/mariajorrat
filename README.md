@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! I'm Maria</h1>
 <h3 align="center">Web Developer</h3>
-<h3 align="center">https://mypagemfj.netlify.app/</h3>
+<h3 align="center">https://mariajorrat.pages.dev/</h3>
 
 ---
 
