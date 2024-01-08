@@ -11,20 +11,6 @@
 
 ---
 
-<h3 align="left">Languages</h3>
-
-- English C1 advanced
-- Spanish native
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mariajorrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariajorrat" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="left">Stack:</h3>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -46,4 +32,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" alt="windows" width="40" height="40"/>
 <!-- <img src="" alt="git" width="40" height="40"/> -->
+</p>
+
+---
+
+<h3 align="left">Languages</h3>
+
+- English C1 advanced
+- Spanish native
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mariajorrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariajorrat" height="30" width="40" /></a>
 </p>
