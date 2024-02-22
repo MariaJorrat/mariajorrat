@@ -6,7 +6,7 @@
 
 - Passionate about technology and art.
 - Currently pursuing an associate degree in software development
-- I'm a fullstack developer (freelancer).
+- I'm a UI designer and developer (freelancer).
 - My hobbies are singing, chess and photography.
 
 ---
