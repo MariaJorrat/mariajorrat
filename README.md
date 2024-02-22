@@ -1,12 +1,12 @@
 <h1 align="center">Welcome! I'm Maria</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">UI Designer and Developer</h3>
 <h3 align="center">https://mariajorrat.pages.dev/</h3>
 
 ---
 
 - Passionate about technology and art.
 - Currently pursuing an associate degree in software development
-- I'm a UI designer and developer (freelancer).
+- From Tucuman, Argentina.
 - My hobbies are singing, chess and photography.
 
 ---
