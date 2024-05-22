@@ -25,8 +25,6 @@
 <img src="https://www.svgrepo.com/show/373969/php2.svg" alt="PHP" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="xampp" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="Python" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
